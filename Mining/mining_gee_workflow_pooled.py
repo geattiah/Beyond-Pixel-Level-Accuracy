@@ -3,7 +3,7 @@
 Surface Mining Detection - GEE Python Workflow (POOLED MODEL VERSION)
 Schleswig-Flensburg, Germany | 2016-2025
 =============================================================================
-Authors:  Gifty Attiah & Kwaku Owusu Twum
+Authors:  Gifty Attiah 
 Study areas: Osterby, Ellund, Wanderup, Schuby, Klein Rheide
 
 Strategy:
