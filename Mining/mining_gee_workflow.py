@@ -3,7 +3,7 @@
 Surface Mining Detection - GEE Python Workflow
 Schleswig-Flensburg, Germany | 2016-2024
 =============================================================================
-Authors:  Gifty Attiah 
+
 Study areas: Osterby, Ellund, Wanderup, Schuby, Klein Rheide
 
 Validation tiers:
